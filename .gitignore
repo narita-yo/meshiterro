@@ -30,3 +30,4 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 ubuntu-bionic-18.04-cloudimg-console.log
+/.env
